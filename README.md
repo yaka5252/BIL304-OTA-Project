@@ -3,7 +3,7 @@
 Bu proje, Contiki-NG ve Cooja simülatörü kullanılarak Z1 düğümleri (MSP430) arasında parçalı firmware aktarımını ve Coffee File System (CFS) entegrasyonunu içermektedir.
 
 ## 🎥 Proje Sunum ve Demo Videosu
-YOKK
+ŞUANLIK YOK
 
 ## 🛠️ Gerçeklenen Yöntemler ve Alınan Önlemler
 
